@@ -4,7 +4,7 @@
 
 Joshua Antonio-Rodriguez (https://github.com/JoshR011)
 
-Jacob Krinsky
+Jacob Krinsky (https://github.com/krin-j)
 
 Qingzhe Song (https://github.com/Qingzhe-Song)
 
