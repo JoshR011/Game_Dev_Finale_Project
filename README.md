@@ -48,7 +48,7 @@ The warehouse contains the final boss and an optional generator. Restoring power
 * Four puzzles and challenges are spread throughout the map (Paper hint will be around the map that guide player to start the puzzle). Completing them rewards the player with the objects to unlock the warehouse door.
     * Puzzle 1: A keypad that requires information from around the map to create the answer key.
     * Puzzle 2: A parkour place that the player must complete without falling.
-    * Puzzle 3: Multiple crates around the map and only one of them have the correct object. Everything a wrong crate is broken, a small light point toward the direction of the correct crate.
+    * Puzzle 3: Multiple crates around the map and only one of them have the correct object. Every time a wrong crate is broken, a small light point toward the direction of the correct crate.
     * Puzzle 4: A riddle that tells the player to kill a specific number of enemies using a knife only.
 * The player can walk, sprint, slide, jump, and dash in midair. Moving creates noise that can alert nearby enemies, and sprinting increases the noise radius.
 * Combat uses first-person aiming and shooting. Crosshair bloom reduces accuracy while the player is moving.
