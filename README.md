@@ -30,7 +30,8 @@ The warehouse contains the final boss and an optional generator. Restoring power
 
 *Lethal Company* is the main inspiration for the flashlight system and the tension created by limited visibility. Its handheld flashlight makes light feel like a valuable tool while the player explores dark, unfamiliar environments. *Last Light* will adapt this idea by giving the flashlight limited battery power and placing replacement batteries throughout the map. The player must decide when light is worth consuming, making the flashlight an important resource rather than only a visual effect.
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_08fa3ef83b6eb70313119096f82285fa411f02e5.1920x1080.jpg?t=1775380053" alt="Lethal Company flashlight inspiration](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/pro-flashlight-in-lethal-company.jpg" width="500"/>
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/pro-flashlight-in-lethal-company.jpg" width="500">
+
 
 [Lethal Company Steam Page](https://store.steampowered.com/app/1966720/Lethal_Company/)
 
