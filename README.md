@@ -22,7 +22,7 @@ The warehouse contains the final boss and an optional generator. Restoring power
 
 *Left 4 Dead* is a major influence on the game's survival-horror atmosphere and objective-based exploration. Its dark environments, constant enemy pressure, and emphasis on moving through dangerous spaces inspire the tension we want to create in *Last Light*. Our game will build on these ideas by asking the player to explore hostile areas, locate resources, and search for puzzle components while remaining vulnerable to nearby enemies.
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500/0000006028.1920x1080.jpg?t=1745368560" alt="Left 4 Dead gameplay inspiration" width="500"/>
+<img src="https://www.co-optimus.com/images/upload/image/l4d_horde_hallway.jpg" alt="Left 4 Dead gameplay inspiration" width="500"/>
 
 [Left 4 Dead Steam Page](https://store.steampowered.com/app/500/Left_4_Dead/)
 
@@ -34,13 +34,13 @@ The warehouse contains the final boss and an optional generator. Restoring power
 
 [Lethal Company Steam Page](https://store.steampowered.com/app/1966720/Lethal_Company/)
 
-### Quake III Arena
+### DOOM (2016)
 
-*Quake III Arena* is the main inspiration for the game's fast movement, hip-fire combat, and map design. Its arenas use vertical spaces, open combat areas, and interconnected paths to keep players moving and create multiple ways to approach an encounter. *Last Light* will adapt these ideas to the outdoor zone and warehouse, giving the player room to sprint, slide, and dash while repositioning during combat. Most weapons will be designed for hip-fire instead of aiming down sights, while movement-based crosshair bloom will provide an accuracy tradeoff at high speeds. The screenshot below represents the visual direction for the map's industrial, arena-like spaces.
+*DOOM* is the main inspiration for the game's movement and shooting. Its fast, fluid combat demonstrates how mobility can keep first-person encounters exciting and encourage the player to stay active. *Last Light* will adapt that feeling through sprinting, sliding, a midair dash, and hip-fire-focused weapons, while movement-based crosshair bloom will make accurate shooting more difficult when the player is moving quickly.
 
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2200/0000000283.1920x1080.jpg?t=1782164859" alt="Quake III Arena map design inspiration" width="500"/>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_f989e793786bf1d6459da1139a484203efef1447.1920x1080.jpg?t=1750784856" alt="DOOM gameplay inspiration" width="500"/>
 
-[Quake III Arena Steam Page](https://store.steampowered.com/app/2200/Quake_III_Arena/)
+[DOOM Steam Page](https://store.steampowered.com/app/379720/DOOM/)
 
 ## Gameplay
 
@@ -55,11 +55,12 @@ The warehouse contains the final boss and an optional generator. Restoring power
 * A flashlight helps the player navigate dark areas but has limited battery power. Replacement batteries can be collected throughout the map.
 * Health items restore lost health, while perks can provide upgrades such as life steal or increased weapon damage.
 * The player can activate a generator to illuminate the warehouse before fighting the final boss. Skipping the generator is possible, but it makes the encounter more difficult.
-* After defeating the boss, the player beats the game and unlocks the warehouse as a permanent safe point.
+* After defeating the boss, the player must use the objects earned from the four puzzles to unlock the final escape door.
 * The game uses keyboard-and-mouse controls: WASD movement and mouse aiming, with additional inputs for jumping, sprinting, sliding, dashing, interacting, and toggling the flashlight.
 * The interface will display a crosshair along with the player's health and remaining flashlight battery.
 
-Graphics:
+## Graphics
+
 * First-person perspective with low-poly visuals inspired by classic shooters.
 * A dark, low-visibility environment in which the flashlight and weapon fire provide important sources of light.
 * Strong lighting contrast between the unpowered warehouse and the illuminated arena after the generator is activated.
@@ -68,7 +69,7 @@ Graphics:
 
 ### Project Checkpoint 1-2: Basic Mechanics and Scripting (Ch. 5-9)
 
-* Implement the core movement system, excluding animation:
+* Implement the core movement system:
   * Walking
   * Sprinting
   * Jumping and midair dashing
@@ -78,3 +79,5 @@ Graphics:
   * Toggleable light
   * Limited battery charge
   * Battery pickups
+* Add a simple HUD for the crosshair and flashlight battery level.
+* Playtest the movement and flashlight systems together in the blockout and adjust their values as needed.
