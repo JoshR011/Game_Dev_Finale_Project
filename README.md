@@ -22,7 +22,7 @@ The warehouse contains the final boss and an optional generator. Restoring power
 
 *Left 4 Dead* is a major influence on the game's survival-horror atmosphere and objective-based exploration. Its dark environments, constant enemy pressure, and emphasis on moving through dangerous spaces inspire the tension we want to create in *Last Light*. Our game will build on these ideas by asking the player to explore hostile areas, locate resources, and search for puzzle components while remaining vulnerable to nearby enemies.
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500/0000006028.1920x1080.jpg?t=1745368560" alt="Left 4 Dead gameplay inspiration" width="500"/>
+<img src="https://www.co-optimus.com/images/upload/image/l4d_horde_hallway.jpg" alt="Left 4 Dead gameplay inspiration" width="500"/>
 
 [Left 4 Dead Steam Page](https://store.steampowered.com/app/500/Left_4_Dead/)
 
